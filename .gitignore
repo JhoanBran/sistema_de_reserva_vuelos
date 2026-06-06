@@ -1,0 +1,12 @@
+vendor/
+.env
+.env.local
+.DS_Store
+*.log
+node_modules/
+dist/
+build/
+.cache/
+*.phar
+.vscode/
+.idea/
